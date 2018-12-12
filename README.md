@@ -1,2 +1,2 @@
-# Bootstap-Portfolio
-Homework 2, building a portfolio using bootsrap
+# Bootstrap-Portfolio
+Homework 2, building a portfolio using bootstrap

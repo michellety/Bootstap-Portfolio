@@ -1,8 +1,6 @@
-/* Nav bar */
+/*nav var */
+
 .navbar-brand {
-float: left;
-width: 350px;
-height: 90px;
 font-family: Georgia, Times, "Times New Roman", serif;
 font-size: 30px;
 font-weight: 700;
@@ -10,35 +8,11 @@ line-height: 90px;
 color: #fff;
 text-align: center;
 background: #4aaaa5;
-margin-right: 400px;
-margin-left: 0;
+margin: 20px;
 border-bottom: 2px solid #ccc;
-}
-nav.navbar.navbar-expand-lg {
-    margin: 0;
+
 }
 
-.nav-item {
-float: right;
-width: 100%;
-padding-left: 10px;
-overflow: auto;
-color: #777;
-background: #fff;
-border-bottom: 2px solid #ccc;
-}
-
-a {
-    color: #777;
-}
-
-#navbarNav {
-background: #fff;
-margin: 0px;
-float: right;
-color: #777;
-    
-}
 /*Body*/
 body {
 height: 100%;
@@ -47,6 +21,7 @@ font-size: 18px;
 line-height: 34px;
 color: #777;
 background: url(/Users/michelletyson/Desktop/concrete_seamless.png);
+width: 960px;
 }
 
 * {
